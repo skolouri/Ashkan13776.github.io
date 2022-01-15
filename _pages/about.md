@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Department of Computer Science, Vanderbilt University</a>
 profile:
   align: right
-  image: prof_pic.jpg
+  image: meeee.jpg
   address: >
     <p> Address: Soon ;) </p>
     
