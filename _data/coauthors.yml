@@ -5,6 +5,10 @@
 "Bagheri":
   - firstname: ["Fatemeh", "F.", "F"]
     url: https://www.researchgate.net/profile/Fatemeh-Bagheri-9
+    
+ "Akbarian":
+  - firstname: ["Sina", "S.", "S"]
+    url: https://www.linkedin.com/in/sina-akbarian/
 
 "Jahed":
   - firstname: ["Mehran", "M.", "M"]
