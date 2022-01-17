@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://engineering.vanderbilt.edu/cs/'>Department of Computer Science, Vanderbilt University</a>
 profile:
   align: right
-  image: meeee.jpg
+  image: Ashkan-Shahbazi_auto_x2.jpg
   address: >
     <p> Address: Soon ;) </p>
     
